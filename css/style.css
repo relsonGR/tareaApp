@@ -65,3 +65,13 @@ margin:auto;
     .title_nos{
         font-size:150%;
     }
+
+    .mantenimiento{
+      
+    position: relative;
+    bottom: 8px;
+    left: 400px;
+    width: 650px;
+    height: 450px;
+    float: center;
+    }
