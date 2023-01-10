@@ -53,3 +53,11 @@
     .user{
       float: left; width: 6em; height: 4em; margin-right: 1em; 
     }
+    .tamaño{
+      
+    position: absolute;
+    bottom: 40px;
+    left: 650px;
+    width: 650px;
+    height: 450px;
+    }
